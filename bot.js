@@ -9,8 +9,8 @@ const {
 } = require('./gui');
 const {gui} = require('./kasper-toolbox/gui');
 
-setBotId('c7cd1793-a047-4be0-9522-8aca9d1c5bb1-1642958974067');
-setAuthToken('7RRkHtB5IZgYwRTPaSZoKPZB4IkmWZdM3i3oCWyHLccr9eaLgFhd0w0a1ghAGVvV');
+setBotId('25df2750-02df-4eea-964b-190e5012cb3a-1643197622304');
+setAuthToken('P1xr9oIOYsYUcSAWYfnuXaz1DZYlBGCyvPpBP9kOT06eVXMJg8SPxVwPjrJmS8Jh');
 
 (async () => {
 
